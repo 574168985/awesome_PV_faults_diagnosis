@@ -1,5 +1,9 @@
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/574168985/awesome_PV_faults_diagnosis/edit/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-fr-white.svg)](https://github.com/574168985/awesome_PV_faults_diagnosis/edit/main/README.fr.md)
+[![es](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/574168985/awesome_PV_faults_diagnosis/edit/main/README.cn.md)
 # awesome_PV_faults_diagnosis
 literature review renewal of PV faults diagnosis, including papers, datasets, and codes
+
 # PLAN
 
 To start literature review, we focus on:
