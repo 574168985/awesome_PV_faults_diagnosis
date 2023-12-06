@@ -9,19 +9,19 @@
 在本文献综述中，我们关注:
 
 - [ ] [基于图像的故障监测方法](#基于图像的故障监测方法)
-- [ ] [基于多模态融合的方法](#FUSION-BASED-METHODS)
-- [ ] [基于图像方法的公开数据集](#PUBLIC-IMAGE-BASED-DATASET-SUMMARY )
+- [ ] [基于多模态融合的方法](#基于多模态融合的方法)
+- [ ] [基于图像方法的公开数据集](#基于图像方法的公开数据集)
 
 # 基于图像的故障监测方法
 
-What kind of images, how they are collected, processed, which kind of faults (type, severity, …), the application level (cell, module, string, plant), the results (simulation or experimental) accuracy and so on
+图像类型, 图像的收集方法, 图像的处理方法, 故障类型及严重程度, 所应用的层次(cell, module, string, plant), 实验结果(仿真/实际实验), 准确率, 以及其他
 
-# FUSION BASED METHODS
+# 基于多模态融合的方法
 
-What kind of images, how they are collected, processed, how the fusion is done, which kind of faults, the application, the results (simulation or experimental) accuracy and so on
+图像类型, 图像的收集方法, 图像的处理方法, 如何融合, 故障类型及严重程度, 所应用的层次(cell, module, string, plant), 实验结果(仿真/实际实验), 准确率, 以及其他
 
-It would be relevant to check if there is any paper review. If not we can be the first to do so.
+其他的相关的文献综述文章
 
-# PUBLIC IMAGE BASED DATASET SUMMARY 
+# 基于图像方法的公开数据集 
 
-todo
+待续
