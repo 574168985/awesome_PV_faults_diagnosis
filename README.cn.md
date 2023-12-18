@@ -25,3 +25,7 @@
 # 基于图像方法的公开数据集 
 
 待续
+
+## 【2023】基于图像方法的公开数据集
+
+- [Enhancing Photovoltaic Module Fault Diagnosis with Unmanned Aerial Vehicles and Deep Learning-Based Image Analysis](https://www.hindawi.com/journals/ijp/2023/8665729/)
