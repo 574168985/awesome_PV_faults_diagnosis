@@ -28,4 +28,4 @@
 
 ## 【2023】基于图像的故障监测方法
 
-- [International Journal of Photoenergy，中科院4区] [可见光图像] [无人机] [模糊、翻转、旋转、噪声、平移、缩放和扭曲] [正常板块、蜗牛痕迹、层裂、玻璃破裂、变色和烧伤] [初始600，扩增到3150] [CNN+Classifier(不使用AI分类器)] [Enhancing Photovoltaic Module Fault Diagnosis with Unmanned Aerial Vehicles and Deep Learning-Based Image Analysis](https://www.hindawi.com/journals/ijp/2023/8665729/)
+- [International Journal of Photoenergy，中科院4区] [可见光图像] [无人机] [模糊、翻转、旋转、噪声、平移、缩放和扭曲] [正常板块、蜗牛痕迹、层裂、玻璃破裂、变色和烧伤] [初始600，扩增到3150] [CNN+Classifier(不使用AI分类器)] [准确率|在自建数据集宣称上使用DenseNet-201+k-nearest达到100] [Enhancing Photovoltaic Module Fault Diagnosis with Unmanned Aerial Vehicles and Deep Learning-Based Image Analysis](https://www.hindawi.com/journals/ijp/2023/8665729/)
