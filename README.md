@@ -28,6 +28,10 @@ todo
 
 ![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/b069499a-c777-4e8e-b935-90b0503bc2c2) https://www.mdpi.com/1996-1073/16/10/4012
 
+[数据集大小x准确率.pdf](https://github.com/574168985/awesome_PV_faults_diagnosis/files/13857879/x.pdf)
+
+
+
 
 ## 【2023】IMAGE BASED METHODS
 
