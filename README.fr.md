@@ -25,3 +25,7 @@ Il serait pertinent de vérifier s’il existe une revue papier. Sinon, nous pou
 # RÉSUMÉ DES BASES DE DONNÉES PUBLIQUES BASÉ SUR DES IMAGES
 
 à faire
+
+## 【2023】IMAGE BASED METHODS
+
+- [![Type de document](https://img.shields.io/badge/TypeDeDocument-8A2BE2)|International Journal of Photoenergy，Q4] [![Type d'image](https://img.shields.io/badge/TypeD'image-2b83e2)|Image en lumière visible] [![收集方法](https://img.shields.io/badge/MéthodeDeCollecte-e28a2b)|drone] [![处理方法](https://img.shields.io/badge/TraitementD'images-83e22b)|Flou, retournement, rotation, bruit, translation, zoom et distorsion] [![故障类型](https://img.shields.io/badge/TypeDeDéfaut-ff0000)|Plaques normales, marques d'escargots, fissures de couches, verre brisé, décoloration et brûlures] [![应用层次](https://img.shields.io/badge/NiveauD'application-009999)|pannel] [![数据规模](https://img.shields.io/badge/TailleDesDonnées-990066)|Initialement 600, étendu à 3 150] [![Methodology](https://img.shields.io/badge/Conception-6666cc)|CNN+Classifier (sans utiliser le classificateur AI)] [![准确率](https://img.shields.io/badge/Accuracy-660066)|Prétend utiliser DenseNet-201+k-nearest sur un ensemble de données auto-construit pour atteindre 100] [Enhancing Photovoltaic Module Fault Diagnosis with Unmanned Aerial Vehicles and Deep Learning-Based Image Analysis](https://www.hindawi.com/journals/ijp/2023/8665729/) **[Rapport | Dans les tâches multi-classifications, k-le plus proche est le meilleur parmi les classificateurs non entièrement connectés]**
