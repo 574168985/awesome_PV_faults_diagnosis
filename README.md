@@ -26,6 +26,9 @@ It would be relevant to check if there is any paper review. If not we can be the
 
 todo
 
+![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/b069499a-c777-4e8e-b935-90b0503bc2c2) https://www.mdpi.com/1996-1073/16/10/4012
+
+
 ## 【2023】IMAGE BASED METHODS
 
 - [![Type de document](https://img.shields.io/badge/Journal-8A2BE2)|International Journal of Photoenergy，Q4] [![Type d'image](https://img.shields.io/badge/ImageType-2b83e2)|RGB] [![收集方法](https://img.shields.io/badge/CollectionMethod-e28a2b)|UAV] [![处理方法](https://img.shields.io/badge/ImageProcessing-83e22b)|Blur, flipping, rotation, noise, translation, zoom, and distortion] [![故障类型](https://img.shields.io/badge/FaultType-ff0000)|Normal plates, snail marks, layer cracks, broken glass, discoloration, and burns] [![应用层次](https://img.shields.io/badge/ApplicationLevel-009999)|pannel] [![数据规模](https://img.shields.io/badge/DataSize-990066)|Initially 600, extended to 3,150] [![Methodology](https://img.shields.io/badge/Methodology-6666cc)|CNN+Classifier (without using the AI classifier)] [![准确率](https://img.shields.io/badge/Metrics-660066)|Pretend to use DenseNet-201 with k-nearest neighbors on a self-constructed dataset to achieve 100] [Enhancing Photovoltaic Module Fault Diagnosis with Unmanned Aerial Vehicles and Deep Learning-Based Image Analysis](https://www.hindawi.com/journals/ijp/2023/8665729/) **[Report|In multi-classification tasks, k-nearest neighbors is the best among non-fully connected classifiers.]**
