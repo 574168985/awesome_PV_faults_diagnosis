@@ -1,8 +1,13 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/574168985/awesome_PV_faults_diagnosis/edit/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-fr-white.svg)](https://github.com/574168985/awesome_PV_faults_diagnosis/edit/main/README.fr.md)
 [![es](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/574168985/awesome_PV_faults_diagnosis/edit/main/README.cn.md)
+
 # awesome_PV_faults_diagnosis
 literature review renewal of PV faults diagnosis, including papers, datasets, and codes
+
+[![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/b069499a-c777-4e8e-b935-90b0503bc2c2)](https://www.mdpi.com/1996-1073/16/10/4012)
+
+![数据集大小x准确率](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/c486d9ff-1f8e-4ed9-8546-bf6a6325d811)
 
 # PLAN
 
@@ -25,11 +30,6 @@ It would be relevant to check if there is any paper review. If not we can be the
 # PUBLIC IMAGE BASED DATASET SUMMARY 
 
 todo
-
-![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/b069499a-c777-4e8e-b935-90b0503bc2c2) https://www.mdpi.com/1996-1073/16/10/4012
-
-![数据集大小x准确率](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/c486d9ff-1f8e-4ed9-8546-bf6a6325d811)
-
 
 ## 【2023】IMAGE BASED METHODS
 
