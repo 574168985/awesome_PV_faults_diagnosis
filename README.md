@@ -30,6 +30,9 @@ What kind of images, how they are collected, processed, how the fusion is done, 
 
 It would be relevant to check if there is any paper review. If not we can be the first to do so.
 
+[![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/d4c4f744-b2de-42a7-9657-82eb7e07fef1)](https://www.sciencedirect.com/science/article/pii/S1364032123008973)
+
+
 # PUBLIC IMAGE BASED DATASET SUMMARY 
 
 todo
