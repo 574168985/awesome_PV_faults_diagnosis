@@ -21,6 +21,9 @@ To start literature review, we focus on:
 
 What kind of images, how they are collected, processed, which kind of faults (type, severity, …), the application level (cell, module, string, plant), the results (simulation or experimental) accuracy and so on
 
+[![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/a5536fd5-a3a1-4d59-bf75-fc20a9d17e93)](https://www.sciencedirect.com/science/article/pii/S1364032123008973)
+
+
 # FUSION BASED METHODS
 
 What kind of images, how they are collected, processed, how the fusion is done, which kind of faults, the application, the results (simulation or experimental) accuracy and so on
