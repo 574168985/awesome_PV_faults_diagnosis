@@ -10,6 +10,7 @@ Moreover, classical DL algorithms are generally utilized to model the dynamic na
 - [Faults and infrared thermographic diagnosis in operating c-Si photovoltaic modules: A review of research and future challenges](https://www.sciencedirect.com/science/article/pii/S1364032116301629#f0060)https://www.sciencedirect.com/science/article/pii/S1364032116301629#f0060
 **Photovoltaic (PV) solar energy recorded an exponential growth, in worldwide scale, over the last decade. Inevitably, mature PV markets are becoming highly competitive, boosting the need for research and development (R&D) on efficiency and reliability optimization, maintenance and fault diagnosis of key components, such as the PV modules.**
 The power generation of PV plants and the consequent payback time of investments on PV installations, are significantly dependent on the operational lifetime of PV modules and their electrical performance.
+Apart from the obvious merit of such long warranty, PV modules technology can become even more attractive for consumers and investors if the energy production cost is further minimized, while at the same time, reliability and durability are kept at top level during operation [11]. 
 
 *After the expansion phase, competition in the photovoltaic market shifts from capacity to optimization of efficiency and reliability, as well as maintenance and fault diagnosis.*
 
