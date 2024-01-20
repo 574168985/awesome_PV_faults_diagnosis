@@ -79,3 +79,7 @@ IRT-based diagnosis, on the other hand, appears likely more suitable to provide 
 *不同点：是IEEE T的行文风格，不一定被Elsivier接受*
 
 *可以利用的点：都是说一个对于融合类方法的综述的行文逻辑，分类方法*
+
+- [Multi-source information fusion based on rough set theory: A review](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S1566253520304085?casa_token=JatgEFOW7b4AAAAA:_6txXAE4YTi2b3E7j0umY_1aKaAWdXWEpzNZK10ApKAA-7hQIHXzy6BlRBYv3_-JqQXZRz0GLXgs)
+
+*价值很大，但是还需想想如何利用，他都是粗糙集理论*
