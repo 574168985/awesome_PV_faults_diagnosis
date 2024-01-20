@@ -60,9 +60,13 @@ IRT-based diagnosis, on the other hand, appears likely more suitable to provide 
 
 **融合方法在第三节的分类的表达方法:**
 
+- [A Survey on Fusion-Based Indoor Positioning](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/8889728)
+
 提出了一个统一的定位框架来阐明大多数 FBIP 作品的范式。然后，基于这个框架，我们将在第三节、第四节和第五节分别从源空间、算法空间和权重空间讨论FBIP的工作。
 
 提出了一个统一的融合定位框架，以便于比较 FBIP 中的最先进作品，如图3所示；统一融合定位框架由源空间、算法空间、权重空间三部分组成。从数学上来说，我们可以得到最终的位置估计
+
+*形成了统一的数学表达*
 
 本次调查将回答 FBIP 中的以下两个问题：融合什么、如何融合？
 
