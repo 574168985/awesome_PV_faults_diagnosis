@@ -76,4 +76,6 @@ IRT-based diagnosis, on the other hand, appears likely more suitable to provide 
 
 *不同点：任务目标单一，都是室内定位；而健康监测面对多种故障*
 
+*不同点：是IEEE T的行文风格，不一定被Elsivier接受*
+
 *可以利用的点：都是说一个对于融合类方法的综述的行文逻辑，分类方法*
