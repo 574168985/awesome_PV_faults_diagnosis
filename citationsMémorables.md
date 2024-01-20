@@ -22,3 +22,6 @@ Considering zero-failure PV production as the ultimate objective for future inve
 However, up today, such research, published in the form of reports, technical papers or even books, remains mostly dispersed and unclassified.
 
 *然而，时至今日，此类以报告、技术论文甚至书籍形式发表的研究仍然大多是分散且未分类的。*
+
+As a result, although PV modules are characterized by limited electrical efficiency, they comprise the most robust part of a PV system, typically featuring warranty periods of up to 25 or 30 years.
+*因此，尽管光伏组件的电力效率有限，但它们构成了光伏系统中最坚固的部分，通常具有长达 25 或 30 年的保修期。->服役期*
