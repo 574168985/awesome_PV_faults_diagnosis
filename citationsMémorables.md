@@ -18,7 +18,7 @@ Considering zero-failure PV production as the ultimate objective for future inve
 
 *在扩张阶段之后，光伏市场的竞争不再是产能而是效率和可靠性优化、维护和故障诊断。*
 
-[Faults and infrared thermographic diagnosis in operating c-Si photovoltaic modules: A review of research and future challenges](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S1364032116301629)
+- [Faults and infrared thermographic diagnosis in operating c-Si photovoltaic modules: A review of research and future challenges](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S1364032116301629)
 However, up today, such research, published in the form of reports, technical papers or even books, remains mostly dispersed and unclassified.
 
 *然而，时至今日，此类以报告、技术论文甚至书籍形式发表的研究仍然大多是分散且未分类的。*
