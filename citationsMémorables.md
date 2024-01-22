@@ -64,6 +64,10 @@ Classification of different fault types by correlating their thermal signature w
 
 *通过将热特征与I – V特性相关联来对不同故障类型进行分类。*
 
+Reliability and accuracy of measurements, in two manners; i) cross-validation of detected faults by auxiliary diagnostic measurements (e.g. I–V characterization, electroluminescence, visual inspection), ii) compliance to the designated standards and technical specifications.
+
+*测量的可靠性和准确性有两种方式；i) 通过辅助诊断测量（例如I - V表征、电致发光、目视检查）对检测到的故障进行交叉验证，ii) 符合指定的标准和技术规范。*
+
 **融合方法在第三节的分类的表达方法:**
 
 - [A Survey on Fusion-Based Indoor Positioning](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/8889728)
