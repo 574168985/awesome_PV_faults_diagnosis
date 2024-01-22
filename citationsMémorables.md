@@ -114,3 +114,6 @@ On the other hand, Waqar Akram et al., [19] addressed more advanced IRT-based te
 Nevertheless, several surrounding factors can influence the temperature leading to incorrect variations in thermographic measurements including emissivity variations (i.e., the capacity of bodies to irradiate infrared energy), reflections, vision angle (as an IR camera can provide different temperatures according to the vision angle), camera malfunctions (caused by the machine operator or due to the IR camera limitations), and environmental interferences (e.g., wind, solar light, and humidity) [16]. Moreover, false fault identification can also occur due to interference from other heat-emitting bodies [11].然而，一些周围因素可能会影响温度，导致热成像测量结果出现不正确的变化，包括发射率变化（即物体辐射红外能量的能力）、反射、视角（因为红外摄像机可以根据视角提供不同的温度） ）、相机故障（由机器操作员或由于红外相机限制引起）和环境干扰（例如风、太阳光和湿度）[16]。此外，由于其他发热体的干扰，也会出现错误的故障识别[11]。
 
 *只用IR不行的理由，所以用融合方法*
+
+- [Methods of photovoltaic fault detection and classification: A review](https://www.sciencedirect.com/science/article/pii/S2352484722008022)https://www.sciencedirect.com/science/article/pii/S2352484722008022
+5.2.10. Hybrid methods
