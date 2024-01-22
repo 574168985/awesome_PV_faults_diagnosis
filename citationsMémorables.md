@@ -83,3 +83,7 @@ IRT-based diagnosis, on the other hand, appears likely more suitable to provide 
 - [Multi-source information fusion based on rough set theory: A review](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S1566253520304085?casa_token=JatgEFOW7b4AAAAA:_6txXAE4YTi2b3E7j0umY_1aKaAWdXWEpzNZK10ApKAA-7hQIHXzy6BlRBYv3_-JqQXZRz0GLXgs)
 
 *价值很大，但是还需想想如何利用，他都是粗糙集理论*
+
+- [Multimodal sentiment analysis based on fusion methods: A survey](https://www.sciencedirect.com/science/article/pii/S156625352300074X)https://www.sciencedirect.com/science/article/pii/S156625352300074X
+
+*比较直接的组织方式*
