@@ -108,4 +108,9 @@ Hybrid techniques usually combine two fault detection techniques in a single alg
 
 - [A review of automated solar photovoltaic defect detection systems: Approaches, challenges, and future orientations](https://www.sciencedirect.com/science/article/pii/S0038092X23008204)
 On the other hand, Waqar Akram et al., [19] addressed more advanced IRT-based techniques for PV module defects using transfer learning to improve performance. The CNN model is first pre-trained on EL images, of which the learned features are then repurposed, or transferred, to another target model for a new dataset or task. An IR dataset was collected with normal operation and artificially induced defects of PV modules. The fine-tuning of IR images achieved an accuracy of 99.23 % at a real-time prediction speed.
+
 *EL上预训练后再IR训练*
+
+Nevertheless, several surrounding factors can influence the temperature leading to incorrect variations in thermographic measurements including emissivity variations (i.e., the capacity of bodies to irradiate infrared energy), reflections, vision angle (as an IR camera can provide different temperatures according to the vision angle), camera malfunctions (caused by the machine operator or due to the IR camera limitations), and environmental interferences (e.g., wind, solar light, and humidity) [16]. Moreover, false fault identification can also occur due to interference from other heat-emitting bodies [11].然而，一些周围因素可能会影响温度，导致热成像测量结果出现不正确的变化，包括发射率变化（即物体辐射红外能量的能力）、反射、视角（因为红外摄像机可以根据视角提供不同的温度） ）、相机故障（由机器操作员或由于红外相机限制引起）和环境干扰（例如风、太阳光和湿度）[16]。此外，由于其他发热体的干扰，也会出现错误的故障识别[11]。
+
+*只用IR不行的理由，所以用融合方法*
