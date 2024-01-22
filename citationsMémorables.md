@@ -96,4 +96,10 @@ Reliability and accuracy of measurements, in two manners; i) cross-validation of
 
 - [Multimodal sentiment analysis based on fusion methods: A survey](https://www.sciencedirect.com/science/article/pii/S156625352300074X)https://www.sciencedirect.com/science/article/pii/S156625352300074X
 
+- [A comprehensive review on protection challenges and fault diagnosis in PV systems](https://www.sciencedirect.com/science/article/pii/S1364032118301758#ab0015)
+
+3.6. Hybrid detection techniques (HDT)
+Hybrid techniques usually combine two fault detection techniques in a single algorithm and have been proposed for fault detection in PV systems in order to: 1) Improve the accuracy in detection, 2) Reduce the computational complexity, 3) Accurately distinguish between faults of same signatures and 4) Detect multiple faults occurrences. Following this strategy, a few fault detection algorithms are also available in literature.
+*混合检测技术 (HDT)*
+
 *比较直接的组织方式*
