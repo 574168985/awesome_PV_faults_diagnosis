@@ -58,6 +58,10 @@ IRT-based diagnosis, on the other hand, appears likely more suitable to provide 
 
 *光学信息中的IR信息对于健康监测的作用*
 
+Classification of different fault types by correlating their thermal signature with the I–V characteristics.
+
+*通过将热特征与I – V特性相关联来对不同故障类型进行分类。*
+
 **融合方法在第三节的分类的表达方法:**
 
 - [A Survey on Fusion-Based Indoor Positioning](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/8889728)
