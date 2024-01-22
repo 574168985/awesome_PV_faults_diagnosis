@@ -9,6 +9,8 @@ literature review renewal of PV faults diagnosis, including papers, datasets, an
 
 ![数据集大小x准确率](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/c486d9ff-1f8e-4ed9-8546-bf6a6325d811)
 
+[![image](https://github.com/574168985/awesome_PV_faults_diagnosis/assets/52654110/8dad156e-27a0-443f-a726-099593e9f460)](https://www.sciencedirect.com/science/article/pii/S030626192301499X#fig1)
+
 # PLAN
 
 To start literature review, we focus on:
