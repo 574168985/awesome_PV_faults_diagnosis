@@ -94,11 +94,14 @@ Reliability and accuracy of measurements, in two manners; i) cross-validation of
 
 *价值很大，但是还需想想如何利用，他都是粗糙集理论*
 
+*注意到该文对于融合方法分类也分同质异质，这部分可用来改进光伏融合方法综述的同质异质部分*
+
 - [Multimodal sentiment analysis based on fusion methods: A survey](https://www.sciencedirect.com/science/article/pii/S156625352300074X)
 
 *应用部分值得学习*
 
 - [A comprehensive review on protection challenges and fault diagnosis in PV systems](https://www.sciencedirect.com/science/article/pii/S1364032118301758#ab0015)
+
 *比较直接的组织方式*
 
 3.6. Hybrid detection techniques (HDT)
@@ -106,8 +109,10 @@ Hybrid techniques usually combine two fault detection techniques in a single alg
 *混合检测技术 (HDT)*
 
 - [Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems](https://www.sciencedirect.com/science/article/pii/S1364032117314818)
-- 
+
 *写作范式可以学习，都是该领域下某类方法的综述*
+
+*性价比部分和应用部分值得学习*
 
 - [A review of automated solar photovoltaic defect detection systems: Approaches, challenges, and future orientations](https://www.sciencedirect.com/science/article/pii/S0038092X23008204)
 On the other hand, Waqar Akram et al., [19] addressed more advanced IRT-based techniques for PV module defects using transfer learning to improve performance. The CNN model is first pre-trained on EL images, of which the learned features are then repurposed, or transferred, to another target model for a new dataset or task. An IR dataset was collected with normal operation and artificially induced defects of PV modules. The fine-tuning of IR images achieved an accuracy of 99.23 % at a real-time prediction speed.
