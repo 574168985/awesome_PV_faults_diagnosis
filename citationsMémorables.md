@@ -103,8 +103,11 @@ Reliability and accuracy of measurements, in two manners; i) cross-validation of
 Hybrid techniques usually combine two fault detection techniques in a single algorithm and have been proposed for fault detection in PV systems in order to: 1) Improve the accuracy in detection, 2) Reduce the computational complexity, 3) Accurately distinguish between faults of same signatures and 4) Detect multiple faults occurrences. Following this strategy, a few fault detection algorithms are also available in literature.
 *混合检测技术 (HDT)*
 
-- [Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems](https://www.sciencedirect.com/science/article/pii/S1364032117314818)https://www.sciencedirect.com/science/article/pii/S1364032117314818
+- [Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems](https://www.sciencedirect.com/science/article/pii/S1364032117314818)
+- 
 *写作范式可以学习，都是该领域下某类方法的综述*
+
+*应用部分值得学习*
 
 - [A review of automated solar photovoltaic defect detection systems: Approaches, challenges, and future orientations](https://www.sciencedirect.com/science/article/pii/S0038092X23008204)
 On the other hand, Waqar Akram et al., [19] addressed more advanced IRT-based techniques for PV module defects using transfer learning to improve performance. The CNN model is first pre-trained on EL images, of which the learned features are then repurposed, or transferred, to another target model for a new dataset or task. An IR dataset was collected with normal operation and artificially induced defects of PV modules. The fine-tuning of IR images achieved an accuracy of 99.23 % at a real-time prediction speed.
