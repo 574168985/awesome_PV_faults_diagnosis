@@ -90,7 +90,7 @@ Reliability and accuracy of measurements, in two manners; i) cross-validation of
 
 *可以利用的点：都是说一个对于融合类方法的综述的行文逻辑，分类方法*
 
-- [Multi-source information fusion based on rough set theory: A review](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S1566253520304085?casa_token=JatgEFOW7b4AAAAA:_6txXAE4YTi2b3E7j0umY_1aKaAWdXWEpzNZK10ApKAA-7hQIHXzy6BlRBYv3_-JqQXZRz0GLXgs)
+- [Multi-source information fusion based on rough set theory: A review](https://www-sciencedirect-com.ezproxy.universite-paris-saclay.fr/science/article/pii/S1566253520304085)
 
 *价值很大，但是还需想想如何利用，他都是粗糙集理论*
 
@@ -118,5 +118,5 @@ Nevertheless, several surrounding factors can influence the temperature leading 
 
 *只用IR不行的理由，所以用融合方法*
 
-- [Methods of photovoltaic fault detection and classification: A review](https://www.sciencedirect.com/science/article/pii/S2352484722008022)https://www.sciencedirect.com/science/article/pii/S2352484722008022
+- [Methods of photovoltaic fault detection and classification: A review](https://www.sciencedirect.com/science/article/pii/S2352484722008022)
 5.2.10. Hybrid methods
