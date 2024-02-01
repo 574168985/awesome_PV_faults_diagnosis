@@ -125,3 +125,29 @@ Nevertheless, several surrounding factors can influence the temperature leading 
 
 - [Methods of photovoltaic fault detection and classification: A review](https://www.sciencedirect.com/science/article/pii/S2352484722008022)
 5.2.10. Hybrid methods
+
+- [Use of PV circuit simulation for fault detection in PV array fields](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=346931)
+“Faults in the electrical circuit of the PV generator, if
+not detected, may not only reduce the systems performance.
+They can seriously affect the dedicated operation and services,
+threatening the security and reliability of the whole plant.
+Particularly in larger PV power plants, often having a
+grid strengthening or peaking purpose, timely detection of
+faults as well as quick location, repair and maintenance
+become economic issues.
+However, electrical failures in the array field are not
+easily observed by the operating personnel, although the electrical characteristics of the PV system is changed by these
+faults at the field, sub-field, string and sub-string levels. The
+properties of photovoltaic generators pose special difficulties
+on the decision, whether the actual array working data indicate
+normal operation or not (see Fig. 1).
+Causes are manifold: uncertainties of the irradiance
+measurements and of the cell temperature preclude an easy
+judgement of overall efficiency values; the system operating
+voltage, determined by the power conditioning devices, may
+differ from MPP voltage; meaningful checking of measured
+electrical operation data, of which a limited number is oRen
+available from the data aquisition system of the installation, is
+prevented by the lack of precise reference values. ”
+
+*适合解释融合成本依然比发生事故要好。如果光伏发电系统中的电气电路故障未被及时发现，不仅可能降低系统性能，而且可能严重影响系统的专用运行和服务，威胁到整个发电站的安全性和可靠性。尤其是在较大的光伏发电站中，往往具有强化电网或峰值功率调节的目的，及时检测故障以及快速定位、修复和维护变得经济上非常重要。*
