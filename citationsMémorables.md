@@ -151,3 +151,7 @@ available from the data aquisition system of the installation, is
 prevented by the lack of precise reference values. ”
 
 *适合解释融合成本依然比发生事故要好。如果光伏发电系统中的电气电路故障未被及时发现，不仅可能降低系统性能，而且可能严重影响系统的专用运行和服务，威胁到整个发电站的安全性和可靠性。尤其是在较大的光伏发电站中，往往具有强化电网或峰值功率调节的目的，及时检测故障以及快速定位、修复和维护变得经济上非常重要。*
+
+- Methods of photovoltaic fault detection and classification: A review
+
+*5.2.10. Hybrid methods*可以参考写融合综述
