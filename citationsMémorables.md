@@ -163,3 +163,7 @@ prevented by the lack of precise reference values. ”
 *增加pearson关系矩阵横轴故障，纵轴数据源，纵轴测量方式，纵轴算法，纵轴策略，分布到每个空间章节*
 
 *权衡章目前还是考虑增量pk代价（用数据量，参数量等形成或不形成一个综合指标，消耗有些难以量化，只能寻找有代表的数据来说），性能（准确第一，速度第二）pk代价（数据量第一，参数量第二），对，以性能和代价作为双轴（准确-数据量log；速度-参数量log；准确-参数量log），以各种融合组合画线并命名，这就是三个维度了；还有一个故障的不同，这个维度，要么分图画，要么3d图？，各种故障不是线性的放在一个坐标轴上物理意义不强*
+
+- Compound fault diagnosis model for Photovoltaic array using multi-scale SE-ResNet
+
+*迁移学习的力证，提高14.16%*
