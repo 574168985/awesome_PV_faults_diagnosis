@@ -155,3 +155,7 @@ prevented by the lack of precise reference values. ”
 - Methods of photovoltaic fault detection and classification: A review
 
 *5.2.10. Hybrid methods*可以参考写融合综述
+
+- Assessment of machine learning and ensemble methods for fault diagnosis of photovoltaic systems
+
+*在表7派上用场*可以参考写融合综述
