@@ -173,3 +173,7 @@ prevented by the lack of precise reference values. ”
 *提供各个常用公共数据集上的比较*
 
 *第7表，融合策略能单独说嘛，跟前几个的区分在哪里？*
+
+- Accuracy vs Efficiency Trade-offs in Optical Flow Algorithms
+
+*权衡章参考*
