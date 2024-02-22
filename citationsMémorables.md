@@ -169,3 +169,5 @@ prevented by the lack of precise reference values. ”
 *迁移学习的力证，提高14.16%*
 
 *搞个打分机制，score=Gain \times log(Samples) + DecreaseTime \times log(Parameters)*采用效果乘以置信度的思路，样本更大的准确率增益更有价值分数更高，同理参数越多还能减少的时间比低参数量下的时间减少更有价值，第二项一般是负数意味着只有准确没有性能评分下降
+
+*提供各个常用公共数据集上的比较*
