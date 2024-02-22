@@ -171,3 +171,5 @@ prevented by the lack of precise reference values. ”
 *搞个打分机制，score=Gain \times log(Samples) + DecreaseTime \times log(Parameters)*采用效果乘以置信度的思路，样本更大的准确率增益更有价值分数更高，同理参数越多还能减少的时间比低参数量下的时间减少更有价值，第二项一般是负数意味着只有准确没有性能评分下降
 
 *提供各个常用公共数据集上的比较*
+
+*第7表，融合策略能单独说嘛，跟前几个的区分在哪里？*
